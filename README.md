@@ -6,9 +6,11 @@ This repository contains a CSV file that stores data related to [insert descript
 ### Usage
 You can download the CSV file directly from this repository to analyze the data using tools like Microsoft Excel, Google Sheets, or Python pandas library. Feel free to explore, manipulate, and derive insights from the data.
 
+
 ```bash
 git add -f yourfile.csv
 ```
+
 
 ### Data Columns
 1. Column 1: [Description of data in column 1]
